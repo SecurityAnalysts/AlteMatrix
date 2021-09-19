@@ -93,7 +93,7 @@ $ ./final-convert.out
 
 ## Support Teams
 * CodingPeps - [https://www.codingpeps.com](https://www.codingpeps.com/) 
-* BrownBear(https://github.com/Brown-Bear-2021)
+* [BrownBear](https://github.com/Brown-Bear-2021)
 * BearSec
 
 Follow [@codingpeps](https://www.instagram.com/codingpeps/) 
